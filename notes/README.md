@@ -33,3 +33,11 @@ Types of Data Structures
      * Non Linear Data Structures
        * Tree
        * Graph
+Types of Algorithms
+  *  Simple Recursive algorithms
+  *  Divide and Conquer algorithms
+  *  Dynamic programming Algorithms
+  *  Greedy Algorithms
+  *  Brute force algorithms
+  *  Randomized Algorithms
+  
