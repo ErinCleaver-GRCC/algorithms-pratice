@@ -15,4 +15,15 @@ How to make a good algorithm?
 Why are Data Structures and Algorithms in Interviews?
   *  Shows problem solving skills
   *  Fundamental concepts of programming in a limited time.
-  
+Types of Data Structures
+  *  Primitive Data Structures
+     *  Integer
+     *  Float
+     *  Character
+     *  String
+     *  Boolean
+  *  Non-Primitive Data Structures
+     * Linear Data Structures
+       * 
+     * Non Linear Data Structures
+       * 
