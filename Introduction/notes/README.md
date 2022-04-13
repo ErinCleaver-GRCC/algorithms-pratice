@@ -35,9 +35,20 @@ Types of Data Structures
        * Graph
 Types of Algorithms
   *  Simple Recursive algorithms
+     *  Calls itself recursively     
   *  Divide and Conquer algorithms
+     *  Divide the program into smaller subproblems of the same type, and solve these subproblems recursively.
+     *  Combine the solutions to subproblems into a solution to the original problem
+     *  Quick Sort
+     *  Merge Sort
   *  Dynamic programming Algorithms
+     *  They work based on memorization
+     *  To find the best solution
   *  Greedy Algorithms
+     *  We take the best we can without worrying about future consequences
+     *  We hope that by choosing a local optimum solution at each step, we will end up at a global optimum solution.
   *  Brute force algorithms
+     *  It simply tries all possibilities until a satisfactory solution is found.
   *  Randomized Algorithms
-  
+     *  Use a randomized number at least once during computation to make decisions.
+
