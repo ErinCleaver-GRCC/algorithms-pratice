@@ -7,4 +7,6 @@ Recursion
   *  Performing the same operation multiple times with different inputs.
   *  In every step we try smaller inputs to make the problem smaller
   *  Base condition is needed to stop the recursion otherwise, an infinite loop will occur.
-  
+Why you need Resursion?
+  1.  Recursive thinking is really important in programming and it helps you break down a big problem into smaller ones and is eaiser to use. 
+  2.  
