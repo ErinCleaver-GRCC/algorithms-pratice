@@ -19,4 +19,7 @@ Why you use Resursion?
   2.  The prominent useage of recursion in data structures like trees and graphs.
   3.  Ask questions related to recursion during the interviews
   4.  It is used in many algorithms (divide and conquer, greedy and dyamic programming).
-
+How Recursion Works?
+  1.  A method or function that calls itself depneding on the programming lanagure 
+  2.  The Recursion method or function must exit from the inifnite loop
+  
