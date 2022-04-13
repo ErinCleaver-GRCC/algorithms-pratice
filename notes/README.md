@@ -12,3 +12,7 @@ Algorithms in Computer Science
 How to make a good algorithm?
   1. The problem is solved correctly
   2. The problem is solved efficiently
+Why are Data Structures and Algorithms in Interviews?
+  *  Shows problem solving skills
+  *  Fundamental concepts of programming in a limited time.
+  
