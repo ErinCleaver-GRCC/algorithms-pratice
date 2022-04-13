@@ -23,7 +23,13 @@ Types of Data Structures
      *  String
      *  Boolean
   *  Non-Primitive Data Structures
-     * Linear Data Structures
-       * 
+     *  Linear Data Structures
+        *  Static
+           *  Arrays
+        *  Dynamic
+           *  Linked List
+           *  Stack
+           *  Queue
      * Non Linear Data Structures
-       * 
+       * Tree
+       * Graph
